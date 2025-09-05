@@ -1,0 +1,65 @@
+commit 929ac3d30268c160ebe90b519f745a3ae583bb12
+Merge: 0c99b93 927030a
+Author: NauticaU <nuribe9@calstatela.edu>
+Date:   Thu Sep 4 23:50:01 2025 -0700
+
+    Resolved merge conflict between main and index
+
+commit 927030a0a9e15843e7d4431a2ef74206566c803e
+Author: NauticaU <nuribe9@calstatela.edu>
+Date:   Thu Sep 4 23:45:53 2025 -0700
+
+    Added fave game div to index.html in index-fix
+
+commit 0c99b9395c1da90ccd5813c0312d38afc70dd5ed
+Author: NauticaU <nuribe9@calstatela.edu>
+Date:   Thu Sep 4 23:43:54 2025 -0700
+
+    Replaced movie div with food div in main
+
+commit 88e448a2cc083142c7d988cddfb32e561844d0af
+Author: NauticaU <nuribe9@calstatela.edu>
+Date:   Thu Sep 4 23:39:59 2025 -0700
+
+    Added fave movie div to index.html in main
+
+commit e558362fb7a9f63acdea3a51ac3700a0a988de04
+Author: NauticaU <nuribe9@calstatela.edu>
+Date:   Thu Sep 4 23:33:52 2025 -0700
+
+    Added fave food div to index.html in main
+
+commit 0651fc9178cb51ddd43fb8a70cf96ac454c40981
+Merge: be9d24d 9c21c88
+Author: NauticaU <nuribe9@calstatela.edu>
+Date:   Thu Sep 4 23:17:12 2025 -0700
+
+    Merge branch 'main' of https://github.com/NauticaU/CS3338-second-project
+    Merged remote main into local main to sync changes#
+
+commit be9d24dee0edee4466cb88b67f419028484c4ba8
+Author: NauticaU <nuribe9@calstatela.edu>
+Date:   Thu Sep 4 23:16:07 2025 -0700
+
+    Added README.md to describe CS338 second project
+
+commit 9c21c8819fd43589907806161a1f99c2f646f466
+Merge: 1d2bfc0 7a80bf5
+Author: NauticaU <nuribe9@calstatela.edu>
+Date:   Thu Sep 4 22:22:38 2025 -0700
+
+    Merge pull request #1 from NauticaU/info-fill
+    
+    Filled in blanks in index.html on info-fill branch
+
+commit 7a80bf53fc1258a290fc9ddd9ee9c135386b8baa
+Author: NauticaU <nuribe9@calstatela.edu>
+Date:   Thu Sep 4 22:06:42 2025 -0700
+
+    Filled in blanks in index.html on info-fill branch
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
